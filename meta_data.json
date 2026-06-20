@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "data_tracked": false,
+    "demo_page": "https://json-to-xlsx.bubbleapps.io/version-test/index?debug_mode=true",
+    "description": "Exporte dados em formato Excel (XLSX) diretamente do seu aplicativo Bubble de forma simples, rápida e customizável.\n\nO Smart XLSX Exporter permite gerar planilhas personalizadas a partir de qualquer fonte de dados JSON.\nVocê define o nome do arquivo, o nome da aba, e até escolhe se quer exibir logs no console para depuração.\n\nIdeal para gerar relatórios, planilhas de controle, backups de dados e qualquer tipo de exportação no formato Excel.\n\n💡 Compatível com: qualquer aplicação Bubble\n⚙️ Sem dependências externas — tudo acontece dentro do próprio plugin.",
+    "designed_for": "web",
+    "image": "//meta-q.cdn.bubble.io/f1761630234097x223140833011970620/xlsx_icon.svg.png",
+    "license": "open_source",
+    "link": "https://json-to-xlsx.bubbleapps.io/version-test/index?debug_mode=true",
+    "name": "Smart XLSX Exporter",
+    "platforms_new": "web",
+    "plugin_instructions": ""
+}

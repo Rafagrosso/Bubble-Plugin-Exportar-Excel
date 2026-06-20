@@ -1,0 +1,41 @@
+{
+    "category": "plugins",
+    "display": "Exportar JSON to XLSX",
+    "fields": {
+        "AAD": {
+            "caption": "List of Data (in JSON)",
+            "doc": "[{\"Header 1\":\"line 1\",\"Header 2\":\"line 1\"},{\"Header 1\":\"line 2\",\"Header 2\":\"line 2\"}]",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "jsonData",
+            "optional": false,
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "File Name",
+            "doc": "File Name",
+            "editor": "DynamicValue",
+            "name": "fileName",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "Tab Title",
+            "doc": "Tab name within the file",
+            "editor": "DynamicValue",
+            "name": "nomeAba",
+            "rank": 2,
+            "value": "text"
+        },
+        "AAG": {
+            "caption": "Show Console Logger",
+            "default_val": false,
+            "doc": "Show Console Logger in the Bottom Corner of the Screen",
+            "editor": "Checkbox",
+            "name": "console",
+            "rank": 3
+        }
+    },
+    "type": "client_side"
+}
